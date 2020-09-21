@@ -13,6 +13,7 @@ App realizada como ejercicio en [Soy Henry](https://www.soyhenry.com/)
 ```
 Clonar el repositorio
 ```
+En la consola:
 ```
 npm install
 ```
