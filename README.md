@@ -8,3 +8,14 @@ App realizada como ejercicio en [Soy Henry](https://www.soyhenry.com/)
 * **Express**
 * **Openweathermap API**
 * **Bootstrap**
+
+## Instrucciones
+```
+Clonar el repositorio
+```
+```
+npm install
+```
+```
+npm start
+```
