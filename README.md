@@ -9,7 +9,7 @@ App realizada como ejercicio en [Soy Henry](https://www.soyhenry.com/)
 * **Openweathermap API**
 * **Bootstrap**
 
-## Instrucciones
+### Instalación 🔧
 ```
 Clonar el repositorio
 ```
